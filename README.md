@@ -1,3 +1,3 @@
 # hangman
 
-Small hangman in python run through the terminal
+Small hangman game in python run through the terminal
